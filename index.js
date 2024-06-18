@@ -215,7 +215,7 @@ export function Index({ navigation }) {
 
 const styles = StyleSheet.create({
     ScrollView: {
-        minHeight:100,
+        height:100,
         backgroundColor: '#fff'
     },
     container: {

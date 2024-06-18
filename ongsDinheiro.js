@@ -88,6 +88,7 @@ const styles = StyleSheet.create({
         paddingEnd:'6%'
     },
     ScrollView: {
+        height:100,
         backgroundColor:'#fff'
     },
     titulo: {
